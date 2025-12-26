@@ -68,7 +68,7 @@ export default function Home() {
   return (
     <main className="relative min-h-screen flex items-center justify-center px-4 bg-[#0C1014] overflow-hidden">
       <div className="absolute inset-0 bg-gradient-to-b from-[#0C1014] via-[#0E1318] to-black" />
-      <div className="absolute top-[-40%] left-1/2 -translate-x-1/2 w-[600px] h-[600px] rounded-full bg-[#edcb4c]/10 blur-[140px]" />
+      <div className="absolute top-[-40%] left-1/2 -translate-x-1/2 w-[600px  ] h-[600px] rounded-full bg-[#edcb4c]/10 blur-[140px]" />
 
       <div className="relative z-10 w-full max-w-sm rounded-[28px] bg-white/[0.05] backdrop-blur-xl border border-white/10">
 
